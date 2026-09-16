@@ -28,14 +28,14 @@ Deep dive into string and numeric variables.
 
 ### 4. Arithmetic Operations
 Performing calculations, handling integers and floats, and calculating means.
-- [x] `Exercise` [Times five](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/04.Arithmetic_Operations.py)
-- [x] `Exercise` [Name and age](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/04.Arithmetic_Operations.py)
-- [x] `Exercise` [Seconds in a day](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/04.Arithmetic_Operations.py)
-- [x] `Exercise` [Fix the code: Product](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/04.Arithmetic_Operations.py)
-- [x] `Exercise` [Sum and product](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/04.Arithmetic_Operations.py)
-- [x] `Exercise` [Sum and mean](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/04.Arithmetic_Operations.py)
-- [x] `Exercise` [Food expenditure](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/04.Arithmetic_Operations.py)
-- [x] `Exercise` [Students in groups](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/04.Arithmetic_Operations.py)
+- [x] `Exercise` [Times five](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/04.Arithmetic_Operations.py)
+- [x] `Exercise` [Name and age](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/04.Arithmetic_Operations.py)
+- [x] `Exercise` [Seconds in a day](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/04.Arithmetic_Operations.py)
+- [x] `Exercise` [Fix the code: Product](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/04.Arithmetic_Operations.py)
+- [x] `Exercise` [Sum and product](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/04.Arithmetic_Operations.py)
+- [x] `Exercise` [Sum and mean](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/04.Arithmetic_Operations.py)
+- [x] `Exercise` [Food expenditure](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/04.Arithmetic_Operations.py)
+- [x] `Exercise` [Students in groups](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/04.Arithmetic_Operations.py)
 
 ### 5. Conditional Statements
 Control flow using `if`, `else`, and comparison operators.
