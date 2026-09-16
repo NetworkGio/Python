@@ -39,17 +39,17 @@ Performing calculations, handling integers and floats, and calculating means.
 
 ### 5. Conditional Statements
 Control flow using `if`, `else`, and comparison operators.
-- [ ] `Exercise` Orwell
-- [ ] `Exercise` Absolute value
-- [ ] `Exercise` Soup or no soup
-- [ ] `Exercise` Order of magnitude
-- [ ] `Exercise` Calculator
-- [ ] `Exercise` Temperatures
-- [ ] `Exercise` Daily wages
-- [ ] `Exercise` Loyalty bonus
-- [ ] `Exercise` What to wear tomorrow
-- [ ] `Exercise` Solving a quadratic equation
-- [ ] `Quiz` Feedback, part 1
+- [x] `Exercise` [Orwell](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
+- [x] `Exercise` [Absolute value](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
+- [x] `Exercise` [Soup or no soup](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
+- [x] `Exercise` [Order of magnitude](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
+- [x] `Exercise` [Calculator](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
+- [x] `Exercise` [Temperatures](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
+- [x] `Exercise` [Daily wages](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
+- [x] `Exercise` [Loyalty bonus](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
+- [x] `Exercise` [What to wear tomorrow](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
+- [x] `Exercise` [Solving a quadratic equation](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
+- [x] `Quiz` Feedback, part 1
 
 ---
 
