@@ -6,7 +6,7 @@ This repository contains the exercises for **Part 1** of the University of Helsi
 
 ### 1. Getting Started
 Focuses on the basic structure of a Python program and the `print` command.
-- [x] `Exercise` [Emoticon](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/01.Getting_Started.py)
+- [x] `Exercise` [Emoticon](https://github.com/Jvpjava/Python/blob/main/01. Part 1/01.Getting_Started.py)
 - [x] `Exercise` [Fix the code: Seven Brothers](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/01.Getting_Started.py)           
 - [x] `Exercise` [Row, Row, Row Your Boat](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/01.Getting_Started.py)
 - [x] `Exercise` [Minutes in a year](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/01.Getting_Started.py)
