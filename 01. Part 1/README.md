@@ -22,9 +22,9 @@ Introduction to the `input()` function and string concatenation.
 ### 3. More About Variables
 Deep dive into string and numeric variables.
 - [x] `Quiz` Background information
-- [x] `Exercise` [Extra space](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/03.More_About_Variables.py)
-- [x] `Exercise` [Arithmetics](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/03.More_About_Variables.py)
-- [x] `Exercise` [Fix the code: Print a single line](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/03.More_About_Variables.py)
+- [x] `Exercise` [Extra space](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/03.More_About_Variables.py)
+- [x] `Exercise` [Arithmetics](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/03.More_About_Variables.py)
+- [x] `Exercise` [Fix the code: Print a single line](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/03.More_About_Variables.py)
 
 ### 4. Arithmetic Operations
 Performing calculations, handling integers and floats, and calculating means.
