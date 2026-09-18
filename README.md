@@ -92,9 +92,9 @@ To pass either course, you must fulfill the following criteria:
 <h1>Part 2: Loops with Conditions, Strings, and Functions</h1>
 
 ### 6\. Programming terminology
-- [ ] `Programming exercise` Fix the syntax
-- [ ] `Programming exercise` Number of characters
-- [ ] `Programming exercise` Typecasting
+- [x] `Programming exercise` [Fix the syntax](https://github.com/NetworkGio/Python/blob/main/02.%20Part%202/01.%20Programming%20Terminology.py)
+- [x] `Programming exercise` [Number of characters](https://github.com/NetworkGio/Python/blob/main/02.%20Part%202/01.%20Programming%20Terminology.py)
+- [x] `Programming exercise` [Typecasting](https://github.com/NetworkGio/Python/blob/main/02.%20Part%202/01.%20Programming%20Terminology.py)
 
 ### 7\. More conditionals
 - [ ] `Programming exercise` Age of maturity
