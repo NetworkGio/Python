@@ -97,10 +97,10 @@ To pass either course, you must fulfill the following criteria:
 - [x] `Programming exercise` [Typecasting](https://github.com/NetworkGio/Python/blob/main/02.%20Part%202/01.%20Programming%20Terminology.py)
 
 ### 7\. More conditionals
-- [ ] `Programming exercise` [Age of maturity](https://github.com/NetworkGio/Python/blob/main/02.%20Part%202/03.%20Combining_Conditions.py)
-- [ ] `Programming exercise` [Greater than or equal to](https://github.com/NetworkGio/Python/blob/main/02.%20Part%202/03.%20Combining_Conditions.py)
-- [ ] `Programming exercise` [The elder](https://github.com/NetworkGio/Python/blob/main/02.%20Part%202/03.%20Combining_Conditions.py)
-- [ ] `Programming exercise` [Alphabetically last](https://github.com/NetworkGio/Python/blob/main/02.%20Part%202/03.%20Combining_Conditions.py)
+- [ ] `Programming exercise` [Age of maturity](https://github.com/NetworkGio/Python/blob/main/02.%20Part%202/02.%20More_Conditionals.py)
+- [ ] `Programming exercise` [Greater than or equal to](https://github.com/NetworkGio/Python/blob/main/02.%20Part%202/02.%20More_Conditionals.py)
+- [ ] `Programming exercise` [The elder](https://github.com/NetworkGio/Python/blob/main/02.%20Part%202/02.%20More_Conditionals.py)
+- [ ] `Programming exercise` [Alphabetically last](https://github.com/NetworkGio/Python/blob/main/02.%20Part%202/02.%20More_Conditionals.py)
 
 ### 8\. Combining conditions
 - [ ] `Programming exercise` [Age check](https://github.com/NetworkGio/Python/blob/main/02.%20Part%202/03.%20Combining_Conditions.py)
