@@ -76,25 +76,25 @@ To pass either course, you must fulfill the following criteria:
 - [x] `Exercise` [Students in groups](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/04.Arithmetic_Operations.py)
 
 ### 5\. [Conditional statements](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/README.md)
-- [x] `Exercise` [Orwell](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
-- [x] `Exercise` [Absolute value](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
-- [x] `Exercise` [Soup or no soup](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
-- [x] `Exercise` [Order of magnitude](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
-- [x] `Exercise` [Calculator](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
-- [x] `Exercise` [Temperatures](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
-- [x] `Exercise` [Daily wages](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
-- [x] `Exercise` [Loyalty bonus](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
-- [x] `Exercise` [What to wear tomorrow](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
-- [x] `Exercise` [Solving a quadratic equation](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
+- [x] `Exercise` [Orwell](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
+- [x] `Exercise` [Absolute value](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
+- [x] `Exercise` [Soup or no soup](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
+- [x] `Exercise` [Order of magnitude](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
+- [x] `Exercise` [Calculator](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
+- [x] `Exercise` [Temperatures](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
+- [x] `Exercise` [Daily wages](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
+- [ ] `Exercise` [Loyalty bonus](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
+- [x] `Exercise` [What to wear tomorrow](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
+- [x] `Exercise` [Solving a quadratic equation](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
 - [x] `Quiz` Feedback, part 1
 
 ---
 <h1>Part 2: Loops with Conditions, Strings, and Functions</h1>
 
 ### 6\. Programming terminology
-- [ ] `Programming exercise` Fix the syntax
-- [ ] `Programming exercise` Number of characters
-- [ ] `Programming exercise` Typecasting
+- [x] `Programming exercise` [Fix the syntax](https://github.com/NetworkGio/Python/blob/main/02.%20Part%202/01.%20Programming%20Terminology.py)
+- [x] `Programming exercise` [Number of characters](https://github.com/NetworkGio/Python/blob/main/02.%20Part%202/01.%20Programming%20Terminology.py)
+- [x] `Programming exercise` [Typecasting](https://github.com/NetworkGio/Python/blob/main/02.%20Part%202/01.%20Programming%20Terminology.py)
 
 ### 7\. More conditionals
 - [ ] `Programming exercise` Age of maturity

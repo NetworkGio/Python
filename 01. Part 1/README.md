@@ -6,50 +6,49 @@ This repository contains the exercises for **Part 1** of the University of Helsi
 
 ### 1. Getting Started
 Focuses on the basic structure of a Python program and the `print` command.
-- [x] `Exercise` [Emoticon](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/01.Getting_Started.py)
-- [x] `Exercise` [Fix the code: Seven Brothers](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/01.Getting_Started.py)           
-- [x] `Exercise` [Row, Row, Row Your Boat](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/01.Getting_Started.py)
-- [x] `Exercise` [Minutes in a year](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/01.Getting_Started.py)
-- [x] `Exercise` [Print some code](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/01.Getting_Started.py)
-
+- [x] `Exercise` [Emoticon](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/01.Getting_Started.py)
+- [x] `Exercise` [Fix the code: Seven Brothers](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/01.Getting_Started.py)           
+- [x] `Exercise` [Row, Row, Row Your Boat](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/01.Getting_Started.py)
+- [x] `Exercise` [Minutes in a year](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/01.Getting_Started.py)
+- [x] `Exercise` [Print some code](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/01.Getting_Started.py)
 ### 2. Information from the User
 Introduction to the `input()` function and string concatenation.
-- [x] `Exercise` [Name twice](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/02.Information_from_the_user.py)
-- [x] `Exercise` [Name and exclamation marks](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/02.Information_from_the_user.py)
-- [x] `Exercise` [Name and address](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/02.Information_from_the_user.py)
-- [x] `Exercise` [Fix the code: Utterances](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/02.Information_from_the_user.py)
-- [x] `Exercise` [Story](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/02.Information_from_the_user.py)
+- [x] `Exercise` [Name twice](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/02.Information_from_the_user.py)
+- [x] `Exercise` [Name and exclamation marks](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/02.Information_from_the_user.py)
+- [x] `Exercise` [Name and address](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/02.Information_from_the_user.py)
+- [x] `Exercise` [Fix the code: Utterances](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/02.Information_from_the_user.py)
+- [x] `Exercise` [Story](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/02.Information_from_the_user.py)
 
 ### 3. More About Variables
 Deep dive into string and numeric variables.
 - [x] `Quiz` Background information
-- [x] `Exercise` [Extra space](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/03.More_About_Variables.py)
-- [x] `Exercise` [Arithmetics](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/03.More_About_Variables.py)
-- [x] `Exercise` [Fix the code: Print a single line](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/03.More_About_Variables.py)
+- [x] `Exercise` [Extra space](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/03.More_About_Variables.py)
+- [x] `Exercise` [Arithmetics](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/03.More_About_Variables.py)
+- [x] `Exercise` [Fix the code: Print a single line](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/03.More_About_Variables.py)
 
 ### 4. Arithmetic Operations
 Performing calculations, handling integers and floats, and calculating means.
-- [x] `Exercise` [Times five](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/04.Arithmetic_Operations.py)
-- [x] `Exercise` [Name and age](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/04.Arithmetic_Operations.py)
-- [x] `Exercise` [Seconds in a day](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/04.Arithmetic_Operations.py)
-- [x] `Exercise` [Fix the code: Product](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/04.Arithmetic_Operations.py)
-- [x] `Exercise` [Sum and product](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/04.Arithmetic_Operations.py)
-- [x] `Exercise` [Sum and mean](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/04.Arithmetic_Operations.py)
-- [x] `Exercise` [Food expenditure](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/04.Arithmetic_Operations.py)
-- [x] `Exercise` [Students in groups](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/04.Arithmetic_Operations.py)
+- [x] `Exercise` [Times five](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/04.Arithmetic_Operations.py)
+- [x] `Exercise` [Name and age](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/04.Arithmetic_Operations.py)
+- [x] `Exercise` [Seconds in a day](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/04.Arithmetic_Operations.py)
+- [x] `Exercise` [Fix the code: Product](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/04.Arithmetic_Operations.py)
+- [x] `Exercise` [Sum and product](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/04.Arithmetic_Operations.py)
+- [x] `Exercise` [Sum and mean](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/04.Arithmetic_Operations.py)
+- [x] `Exercise` [Food expenditure](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/04.Arithmetic_Operations.py)
+- [x] `Exercise` [Students in groups](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/04.Arithmetic_Operations.py)
 
 ### 5. Conditional Statements
 Control flow using `if`, `else`, and comparison operators.
-- [x] `Exercise` [Orwell](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
-- [x] `Exercise` [Absolute value](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
-- [x] `Exercise` [Soup or no soup](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
-- [x] `Exercise` [Order of magnitude](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
-- [x] `Exercise` [Calculator](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
-- [x] `Exercise` [Temperatures](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
-- [x] `Exercise` [Daily wages](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
-- [x] `Exercise` [Loyalty bonus](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
-- [x] `Exercise` [What to wear tomorrow](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
-- [x] `Exercise` [Solving a quadratic equation](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
+- [x] `Exercise` [Orwell](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
+- [x] `Exercise` [Absolute value](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
+- [x] `Exercise` [Soup or no soup](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
+- [x] `Exercise` [Order of magnitude](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
+- [x] `Exercise` [Calculator](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
+- [x] `Exercise` [Temperatures](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
+- [x] `Exercise` [Daily wages](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
+- [x] `Exercise` [Loyalty bonus](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
+- [x] `Exercise` [What to wear tomorrow](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
+- [x] `Exercise` [Solving a quadratic equation](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
 - [x] `Quiz` Feedback, part 1
 
 ---
