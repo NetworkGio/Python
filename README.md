@@ -76,17 +76,17 @@ To pass either course, you must fulfill the following criteria:
 - [x] `Exercise` [Students in groups](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/04.Arithmetic_Operations.py)
 
 ### 5\. [Conditional statements](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/README.md)
-- [ ] `Exercise` Orwell
-- [ ] `Exercise` Absolute value
-- [ ] `Exercise` Soup or no soup
-- [ ] `Exercise` Order of magnitude
-- [ ] `Exercise` Calculator
-- [ ] `Exercise` Temperatures
-- [ ] `Exercise` Daily wages
-- [ ] `Exercise` Loyalty bonus
-- [ ] `Exercise` What to wear tomorrow
-- [ ] `Exercise` Solving a quadratic equation
-- [ ] `Quiz` Feedback, part 1
+- [x] `Exercise` [Orwell](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
+- [x] `Exercise` [Absolute value](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
+- [x] `Exercise` [Soup or no soup](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
+- [x] `Exercise` [Order of magnitude](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
+- [x] `Exercise` [Calculator](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
+- [x] `Exercise` [Temperatures](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
+- [x] `Exercise` [Daily wages](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
+- [x] `Exercise` [Loyalty bonus](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
+- [x] `Exercise` [What to wear tomorrow](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
+- [x] `Exercise` [Solving a quadratic equation](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
+- [x] `Quiz` Feedback, part 1
 
 ---
 <h1>Part 2: Loops with Conditions, Strings, and Functions</h1>

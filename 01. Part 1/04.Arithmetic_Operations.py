@@ -38,7 +38,9 @@ year = int(input("What year were you born?"))
 print(f"Hi {name}, you will be {2021 - year} years old at the end of the year 2021")
 
 """
-3. Please write a program which asks the user for a number of days. The program 
+3. Seconds in a day
+
+Please write a program which asks the user for a number of days. The program 
 then prints out the number of seconds in the amount of days given.
 
 The program should function as follows:
@@ -64,7 +66,9 @@ print(f"Seconds in that many days: {seconds * days}")
 print("\n")
 
 """
-4. This program asks the user for three numbers. The program then prints out 
+4. Fix the code: Product
+
+This program asks the user for three numbers. The program then prints out 
 their product, that is, the numbers multiplied by each other. There is, however, 
 something wrong with the program - it doesn't work quite right, as you can see 
 if you run it. Please fix it.
@@ -88,7 +92,9 @@ product = number
 print("The product is", product)
 
 """
-5. Please write a program which asks the user for two numbers. The program will 
+5. Sum and Product
+
+Please write a program which asks the user for two numbers. The program will 
 then print out the sum and the product of the two numbers.
 
 The program should function as follows:
@@ -108,7 +114,9 @@ number2 = int(input("Number 2:"))
 print(f"The sum of the numbers: {number1+number2}\nThe product of the numbers: {number1*number2}")
 
 """
-6. Please write a program which asks the user for four numbers. The program then 
+6. Sum and mean
+
+Please write a program which asks the user for four numbers. The program then 
 prints out the sum and the mean of the numbers.
 
 The program should function as follows:
@@ -134,7 +142,9 @@ print(f"The sum of the numbers is {sum} and the mean is {sum / 4}")
 print("\n")
 
 """
-7. Please write a program which estimates a user's typical food expenditure.
+7. Food expenditure
+
+Please write a program which estimates a user's typical food expenditure.
 
 The program asks the user how many times a week they eat at the student cafeteria. 
 Then it asks for the price of a typical student lunch, and for money spent on 
@@ -169,7 +179,10 @@ print(f"Average food expenditure:\nDaily: {weekly_expenditure / 7} euros\nWeekly
 print("\n")
 
 """
-8. Please write a program which asks for the number of students on a course 
+8. Students in groups
+
+
+Please write a program which asks for the number of students on a course 
 and the desired group size. The program will then print out the number of 
 groups formed from the students on the course. If the division is not even, one 
 of the groups may have fewer members than specified.
