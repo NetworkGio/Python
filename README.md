@@ -83,7 +83,7 @@ To pass either course, you must fulfill the following criteria:
 - [x] `Exercise` [Calculator](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
 - [x] `Exercise` [Temperatures](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
 - [x] `Exercise` [Daily wages](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
-- [ ] `Exercise` [Loyalty bonus](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
+- [x] `Exercise` [Loyalty bonus](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
 - [x] `Exercise` [What to wear tomorrow](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
 - [x] `Exercise` [Solving a quadratic equation](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
 - [x] `Quiz` Feedback, part 1
