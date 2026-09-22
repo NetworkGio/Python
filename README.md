@@ -83,7 +83,7 @@ To pass either course, you must fulfill the following criteria:
 - [x] `Exercise` [Calculator](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
 - [x] `Exercise` [Temperatures](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
 - [x] `Exercise` [Daily wages](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
-- [ ] `Exercise` [Loyalty bonus](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
+- [x] `Exercise` [Loyalty bonus](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
 - [x] `Exercise` [What to wear tomorrow](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
 - [x] `Exercise` [Solving a quadratic equation](https://github.com/NetworkGio/Python/blob/main/01.%20Part%201/05.%20Conditional_Statements.py)
 - [x] `Quiz` Feedback, part 1
@@ -97,19 +97,19 @@ To pass either course, you must fulfill the following criteria:
 - [x] `Programming exercise` [Typecasting](https://github.com/NetworkGio/Python/blob/main/02.%20Part%202/01.%20Programming%20Terminology.py)
 
 ### 7\. More conditionals
-- [ ] `Programming exercise` Age of maturity
-- [ ] `Programming exercise` Greater than or equal to
-- [ ] `Programming exercise` The elder
-- [ ] `Programming exercise` Alphabetically last
+- [x] `Programming exercise` [Age of maturity](https://github.com/NetworkGio/Python/blob/main/02.%20Part%202/02.%20More_Conditionals.py)
+- [x] `Programming exercise` [Greater than or equal to](https://github.com/NetworkGio/Python/blob/main/02.%20Part%202/02.%20More_Conditionals.py)
+- [x] `Programming exercise` [The elder](https://github.com/NetworkGio/Python/blob/main/02.%20Part%202/02.%20More_Conditionals.py)
+- [x] `Programming exercise` [Alphabetically last](https://github.com/NetworkGio/Python/blob/main/02.%20Part%202/02.%20More_Conditionals.py)
 
 ### 8\. Combining conditions
-- [ ] `Programming exercise` Age check
-- [ ] `Programming exercise` Nephews
-- [ ] `Programming exercise` Grades and points
-- [ ] `Programming exercise` FizzBuzz
-- [ ] `Programming exercise` Leap year
-- [ ] `Programming exercise` Alphabetically in the middle
-- [ ] `Programming exercise` Gift tax calculator
+- [x] `Programming exercise` [Age check](https://github.com/NetworkGio/Python/blob/main/02.%20Part%202/03.%20Combining_Conditions.py)
+- [x] `Programming exercise` [Nephews](https://github.com/NetworkGio/Python/blob/main/02.%20Part%202/03.%20Combining_Conditions.py)
+- [x] `Programming exercise` [Grades and points](https://github.com/NetworkGio/Python/blob/main/02.%20Part%202/03.%20Combining_Conditions.py)
+- [x] `Programming exercise` [FizzBuzz](https://github.com/NetworkGio/Python/blob/main/02.%20Part%202/03.%20Combining_Conditions.py)
+- [x] `Programming exercise` [Leap year](https://github.com/NetworkGio/Python/blob/main/02.%20Part%202/03.%20Combining_Conditions.py)
+- [x] `Programming exercise` [Alphabetically in the middle](https://github.com/NetworkGio/Python/blob/main/02.%20Part%202/03.%20Combining_Conditions.py)
+- [x] `Programming exercise` [Gift tax calculator](https://github.com/NetworkGio/Python/blob/main/02.%20Part%202/03.%20Combining_Conditions.py)
 
 ### 9\. Simple loops
 - [ ] `Programming exercise` Shall we continue?
